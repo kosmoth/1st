@@ -5,6 +5,3 @@ git push origin master
 
 한글입력
 
-[i18n]
-	commitEncoding = utf-8
-	logOutputEncoding = utf-8
